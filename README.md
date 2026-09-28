@@ -22,8 +22,6 @@ This repo tracks my learning.
 
 ## Production
 
-> What I cannot create, I do not understand
-
 - 📦 [Projects](./tx/projects.md)
 - ✍️ [Blog Posts](./tx/blogs.md)
 - 📹 [Videos](./tx/videos.md)
